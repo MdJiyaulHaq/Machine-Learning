@@ -1,8 +1,8 @@
 # Machine-Learning
-This is a complete ML practice code in python.
+This is a practice code of ML in python.
 
 References:
 W3 schools.
-Code with Mosh.
+Programming with Mosh.
 Code with Harry.
-Code camp org.
+Codecamp.org
