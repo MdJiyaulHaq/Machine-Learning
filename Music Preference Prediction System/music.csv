@@ -1,0 +1,1001 @@
+age,gender,genre
+33,1,Classical
+21,1,Hip Hop
+17,1,Romantic
+31,0,Classical
+13,1,Romantic
+20,1,Hip Hop
+33,0,Classical
+27,0,Hip Hop
+18,0,Hip Hop
+21,1,Hip Hop
+23,1,Dance
+25,1,Classical
+24,0,Dance
+27,1,Sad
+15,0,Romantic
+31,1,Classical
+14,1,Romantic
+15,1,Romantic
+25,0,Devotional
+33,0,Classical
+24,0,Hip Hop
+21,1,Hip Hop
+30,1,Classical
+27,0,Devotional
+33,1,Devotional
+14,1,Romantic
+23,0,Sad
+15,1,Romantic
+19,0,Rock
+33,0,Classical
+21,1,Hip Hop
+30,0,Devotional
+31,0,Devotional
+20,1,Rock
+15,1,Romantic
+17,1,Rock
+32,1,Devotional
+25,0,Sad
+21,1,Dance
+30,0,Devotional
+16,0,Romantic
+18,0,Romantic
+21,1,Dance
+33,0,Classical
+17,0,Romantic
+30,1,Devotional
+28,1,Classical
+24,0,Hip Hop
+14,1,Romantic
+15,0,Romantic
+30,1,Classical
+28,1,Sad
+29,0,Devotional
+30,1,Devotional
+25,0,Devotional
+29,0,Classical
+20,1,Dance
+23,1,Hip Hop
+31,1,Classical
+15,1,Romantic
+15,1,Romantic
+15,1,Romantic
+28,1,Devotional
+31,0,Classical
+28,0,Devotional
+16,1,Romantic
+24,0,Rock
+27,1,Hip Hop
+14,0,Romantic
+16,1,Romantic
+19,0,Dance
+26,1,Devotional
+27,1,Hip Hop
+27,1,Hip Hop
+33,1,Classical
+20,1,Rock
+28,0,Devotional
+25,1,Hip Hop
+25,1,Devotional
+21,0,Sad
+26,0,Classical
+19,0,Dance
+14,1,Romantic
+14,1,Romantic
+29,1,Classical
+29,1,Devotional
+15,1,Romantic
+25,1,Sad
+20,1,Dance
+26,0,Devotional
+19,0,Dance
+21,0,Hip Hop
+33,0,Devotional
+23,1,Dance
+27,1,Hip Hop
+30,1,Devotional
+17,0,Romantic
+20,0,Sad
+18,0,Hip Hop
+32,1,Devotional
+16,1,Romantic
+16,1,Romantic
+21,0,Hip Hop
+23,1,Sad
+29,0,Sad
+14,1,Romantic
+21,1,Dance
+23,1,Sad
+18,0,Rock
+30,1,Classical
+15,1,Romantic
+24,1,Rock
+17,1,Rock
+24,1,Sad
+19,1,Romantic
+24,0,Hip Hop
+20,1,Hip Hop
+26,1,Classical
+23,0,Hip Hop
+21,1,Dance
+25,1,Devotional
+20,1,Rock
+24,0,Hip Hop
+20,1,Hip Hop
+25,0,Classical
+15,0,Romantic
+33,0,Devotional
+13,1,Romantic
+18,0,Romantic
+16,0,Romantic
+23,0,Dance
+25,1,Classical
+14,0,Romantic
+29,1,Sad
+26,1,Devotional
+32,0,Classical
+22,0,Rock
+23,0,Sad
+30,1,Classical
+26,0,Classical
+32,0,Devotional
+30,1,Devotional
+22,1,Rock
+31,0,Devotional
+27,0,Classical
+29,0,Devotional
+15,0,Romantic
+15,1,Romantic
+20,1,Hip Hop
+13,1,Romantic
+28,1,Rock
+26,1,Sad
+28,0,Devotional
+17,1,Romantic
+26,1,Classical
+29,0,Classical
+30,1,Classical
+27,1,Sad
+29,0,Rock
+32,0,Devotional
+18,0,Rock
+21,1,Sad
+29,0,Devotional
+21,0,Dance
+22,1,Sad
+23,0,Dance
+17,1,Romantic
+25,1,Rock
+19,1,Rock
+26,0,Rock
+27,0,Hip Hop
+19,0,Rock
+31,1,Devotional
+28,1,Sad
+22,0,Rock
+30,1,Devotional
+20,0,Rock
+28,1,Rock
+23,0,Hip Hop
+27,1,Rock
+30,1,Devotional
+31,1,Classical
+33,0,Classical
+27,1,Hip Hop
+21,0,Sad
+19,0,Hip Hop
+23,0,Sad
+26,0,Hip Hop
+28,1,Classical
+24,1,Dance
+33,1,Classical
+20,1,Dance
+32,1,Classical
+17,0,Romantic
+31,1,Devotional
+21,0,Hip Hop
+32,1,Classical
+22,1,Dance
+22,0,Rock
+19,1,Dance
+16,0,Romantic
+31,1,Devotional
+30,0,Devotional
+15,0,Romantic
+26,0,Hip Hop
+26,0,Sad
+17,0,Romantic
+29,0,Rock
+27,0,Rock
+21,0,Hip Hop
+15,0,Romantic
+20,0,Rock
+23,1,Rock
+23,1,Rock
+19,0,Hip Hop
+23,0,Sad
+30,1,Classical
+15,1,Romantic
+28,1,Rock
+33,0,Devotional
+13,1,Romantic
+20,0,Hip Hop
+22,0,Rock
+30,0,Devotional
+30,0,Devotional
+27,0,Devotional
+21,1,Dance
+19,0,Romantic
+30,1,Classical
+19,0,Hip Hop
+31,0,Classical
+19,0,Dance
+24,1,Sad
+13,1,Romantic
+14,1,Romantic
+17,0,Romantic
+13,0,Romantic
+28,0,Sad
+18,1,Hip Hop
+28,1,Classical
+25,0,Dance
+31,1,Classical
+17,0,Romantic
+20,1,Rock
+32,1,Devotional
+27,0,Devotional
+31,0,Devotional
+31,1,Classical
+19,1,Hip Hop
+15,1,Romantic
+18,1,Dance
+13,0,Romantic
+32,0,Devotional
+14,1,Romantic
+22,0,Dance
+20,0,Hip Hop
+26,1,Rock
+20,1,Sad
+17,1,Romantic
+18,0,Hip Hop
+27,1,Sad
+22,0,Sad
+29,0,Rock
+15,1,Romantic
+23,0,Dance
+15,1,Romantic
+21,1,Hip Hop
+28,0,Sad
+18,0,Rock
+15,0,Romantic
+26,0,Devotional
+16,1,Romantic
+26,0,Devotional
+25,1,Devotional
+15,0,Romantic
+23,1,Rock
+29,1,Rock
+26,1,Classical
+29,0,Rock
+33,0,Classical
+19,0,Dance
+22,0,Rock
+16,1,Romantic
+18,0,Romantic
+30,0,Classical
+20,1,Rock
+16,1,Romantic
+22,0,Rock
+28,0,Devotional
+27,1,Sad
+19,1,Romantic
+21,0,Sad
+29,0,Classical
+22,0,Rock
+17,0,Rock
+24,0,Rock
+27,0,Classical
+20,0,Hip Hop
+26,1,Devotional
+28,0,Rock
+33,1,Devotional
+14,1,Romantic
+16,0,Romantic
+29,0,Classical
+17,0,Romantic
+15,0,Romantic
+23,0,Dance
+23,0,Sad
+33,0,Classical
+32,1,Classical
+33,0,Classical
+15,0,Romantic
+33,1,Devotional
+18,0,Romantic
+14,0,Romantic
+22,0,Sad
+26,1,Classical
+29,0,Devotional
+18,1,Romantic
+32,0,Classical
+28,1,Devotional
+27,0,Sad
+21,1,Rock
+22,1,Dance
+27,0,Rock
+22,0,Sad
+27,0,Classical
+25,0,Dance
+20,0,Sad
+31,0,Devotional
+13,0,Romantic
+13,1,Romantic
+22,1,Sad
+20,1,Sad
+17,1,Romantic
+22,0,Dance
+31,0,Classical
+15,0,Romantic
+26,1,Classical
+17,0,Rock
+18,0,Rock
+22,0,Dance
+27,1,Classical
+20,0,Sad
+15,0,Romantic
+21,1,Rock
+24,0,Rock
+33,0,Classical
+20,0,Dance
+32,0,Classical
+33,1,Devotional
+22,0,Dance
+17,1,Romantic
+22,0,Dance
+16,1,Romantic
+25,0,Classical
+30,0,Classical
+26,1,Sad
+32,0,Devotional
+14,0,Romantic
+27,0,Classical
+24,1,Sad
+30,0,Classical
+25,0,Hip Hop
+16,0,Romantic
+19,1,Romantic
+23,1,Hip Hop
+31,1,Classical
+30,1,Classical
+20,0,Hip Hop
+32,1,Devotional
+17,1,Rock
+18,1,Romantic
+17,1,Rock
+20,0,Dance
+18,0,Romantic
+17,0,Romantic
+15,0,Romantic
+24,1,Rock
+29,1,Classical
+29,0,Rock
+33,1,Classical
+28,0,Rock
+16,0,Romantic
+15,1,Romantic
+32,1,Classical
+17,0,Rock
+25,0,Devotional
+29,0,Classical
+16,1,Romantic
+27,1,Sad
+23,0,Rock
+26,1,Devotional
+26,0,Devotional
+24,1,Rock
+15,1,Romantic
+15,0,Romantic
+24,1,Dance
+31,0,Classical
+26,0,Sad
+14,0,Romantic
+24,1,Hip Hop
+17,0,Romantic
+16,0,Romantic
+16,0,Romantic
+26,1,Rock
+21,1,Hip Hop
+21,0,Sad
+24,1,Hip Hop
+17,0,Romantic
+17,1,Romantic
+29,1,Rock
+26,0,Devotional
+18,0,Hip Hop
+23,1,Dance
+17,1,Romantic
+15,0,Romantic
+26,0,Rock
+27,0,Devotional
+19,1,Hip Hop
+26,1,Devotional
+31,0,Devotional
+14,1,Romantic
+32,1,Classical
+19,0,Dance
+17,0,Rock
+23,1,Dance
+28,0,Devotional
+17,0,Romantic
+29,0,Classical
+25,1,Devotional
+13,0,Romantic
+23,0,Rock
+33,0,Devotional
+16,0,Romantic
+23,1,Rock
+24,1,Rock
+16,1,Romantic
+31,0,Classical
+25,0,Rock
+23,1,Sad
+18,1,Romantic
+29,1,Sad
+24,1,Hip Hop
+16,1,Romantic
+19,1,Dance
+33,1,Classical
+33,0,Devotional
+31,0,Devotional
+33,0,Classical
+27,1,Sad
+27,0,Devotional
+31,1,Devotional
+29,1,Sad
+27,0,Hip Hop
+14,0,Romantic
+15,1,Romantic
+27,1,Sad
+31,1,Devotional
+32,0,Classical
+14,0,Romantic
+23,1,Hip Hop
+14,1,Romantic
+27,1,Devotional
+24,0,Rock
+26,0,Rock
+14,0,Romantic
+23,1,Rock
+22,0,Hip Hop
+23,1,Hip Hop
+24,0,Rock
+17,1,Rock
+30,0,Devotional
+17,1,Rock
+29,0,Classical
+24,0,Hip Hop
+19,0,Rock
+19,1,Dance
+17,1,Rock
+16,1,Romantic
+32,1,Devotional
+17,1,Romantic
+32,1,Devotional
+14,0,Romantic
+20,0,Sad
+27,1,Rock
+20,0,Rock
+19,0,Rock
+27,0,Sad
+29,0,Devotional
+19,1,Hip Hop
+14,0,Romantic
+30,1,Classical
+22,1,Hip Hop
+21,0,Hip Hop
+26,1,Classical
+27,0,Hip Hop
+26,1,Sad
+29,0,Devotional
+25,1,Classical
+20,1,Sad
+16,0,Romantic
+17,1,Rock
+28,1,Rock
+27,1,Hip Hop
+13,0,Romantic
+17,0,Romantic
+22,1,Sad
+16,1,Romantic
+26,0,Hip Hop
+16,0,Romantic
+33,1,Classical
+22,0,Dance
+32,0,Classical
+31,0,Classical
+15,0,Romantic
+29,1,Rock
+28,1,Rock
+24,0,Dance
+24,1,Sad
+20,1,Sad
+17,1,Rock
+30,0,Classical
+27,0,Classical
+17,1,Rock
+14,0,Romantic
+14,1,Romantic
+23,0,Rock
+30,0,Devotional
+14,1,Romantic
+24,1,Sad
+21,1,Sad
+26,0,Sad
+25,0,Hip Hop
+28,0,Sad
+29,0,Classical
+26,1,Sad
+32,1,Devotional
+23,1,Dance
+23,0,Sad
+27,0,Classical
+27,0,Sad
+14,0,Romantic
+21,1,Dance
+33,0,Devotional
+29,1,Classical
+17,0,Romantic
+17,1,Romantic
+33,0,Devotional
+25,1,Sad
+17,0,Rock
+24,0,Dance
+31,1,Devotional
+25,0,Rock
+21,1,Dance
+13,1,Romantic
+29,0,Classical
+21,0,Rock
+19,0,Rock
+19,1,Dance
+15,0,Romantic
+27,1,Devotional
+24,1,Sad
+22,1,Hip Hop
+24,1,Dance
+19,1,Dance
+28,1,Sad
+30,0,Devotional
+30,1,Classical
+15,0,Romantic
+28,0,Rock
+31,1,Classical
+23,1,Rock
+27,0,Classical
+30,1,Classical
+26,1,Hip Hop
+29,1,Sad
+18,1,Hip Hop
+20,0,Sad
+15,0,Romantic
+33,0,Classical
+33,0,Classical
+29,1,Devotional
+18,0,Romantic
+13,1,Romantic
+33,0,Classical
+31,0,Classical
+28,0,Sad
+28,1,Rock
+22,0,Dance
+14,1,Romantic
+26,0,Sad
+19,0,Dance
+23,0,Sad
+25,1,Classical
+29,1,Sad
+20,0,Dance
+21,0,Hip Hop
+17,1,Romantic
+22,0,Rock
+20,1,Sad
+31,0,Classical
+18,0,Rock
+28,0,Rock
+13,1,Romantic
+29,0,Devotional
+19,0,Romantic
+14,0,Romantic
+32,0,Devotional
+30,1,Classical
+26,1,Devotional
+24,0,Sad
+14,0,Romantic
+31,1,Devotional
+30,0,Classical
+25,0,Sad
+21,1,Hip Hop
+16,0,Romantic
+23,0,Hip Hop
+19,0,Romantic
+14,1,Romantic
+23,0,Rock
+17,1,Rock
+32,0,Classical
+25,0,Sad
+23,0,Sad
+28,1,Sad
+23,1,Rock
+31,0,Classical
+32,0,Devotional
+33,1,Classical
+31,0,Classical
+29,0,Devotional
+20,1,Dance
+19,1,Rock
+23,0,Hip Hop
+26,1,Sad
+29,0,Classical
+17,1,Rock
+28,0,Sad
+18,0,Hip Hop
+30,0,Devotional
+32,0,Classical
+20,0,Sad
+20,0,Sad
+19,0,Hip Hop
+28,0,Sad
+22,1,Rock
+25,0,Hip Hop
+22,1,Sad
+15,0,Romantic
+33,0,Devotional
+19,1,Hip Hop
+30,0,Classical
+16,1,Romantic
+14,1,Romantic
+14,1,Romantic
+23,0,Dance
+17,1,Romantic
+26,0,Sad
+33,1,Devotional
+23,0,Dance
+15,1,Romantic
+18,0,Dance
+14,0,Romantic
+18,0,Romantic
+13,0,Romantic
+23,0,Rock
+33,0,Classical
+29,0,Sad
+19,1,Hip Hop
+18,0,Hip Hop
+18,1,Hip Hop
+22,1,Hip Hop
+32,0,Devotional
+29,0,Classical
+25,1,Hip Hop
+17,0,Rock
+20,1,Sad
+25,1,Devotional
+21,0,Sad
+31,1,Devotional
+33,0,Classical
+14,1,Romantic
+22,1,Rock
+29,0,Classical
+33,0,Devotional
+32,1,Classical
+17,0,Romantic
+27,0,Sad
+30,0,Classical
+20,1,Rock
+29,0,Classical
+31,1,Classical
+30,1,Classical
+18,0,Rock
+16,1,Romantic
+15,0,Romantic
+27,1,Rock
+26,0,Rock
+14,0,Romantic
+13,0,Romantic
+13,1,Romantic
+14,0,Romantic
+15,1,Romantic
+28,1,Sad
+26,1,Classical
+33,0,Devotional
+25,0,Devotional
+25,1,Rock
+30,1,Devotional
+16,1,Romantic
+29,1,Devotional
+13,1,Romantic
+27,0,Rock
+25,1,Hip Hop
+27,0,Classical
+21,1,Dance
+14,0,Romantic
+20,1,Dance
+16,1,Romantic
+32,1,Classical
+14,0,Romantic
+20,1,Dance
+17,0,Romantic
+31,0,Devotional
+20,0,Hip Hop
+29,1,Rock
+22,0,Dance
+30,1,Devotional
+30,0,Classical
+24,0,Sad
+26,0,Classical
+22,0,Hip Hop
+30,0,Classical
+20,0,Hip Hop
+27,1,Rock
+26,0,Rock
+29,1,Rock
+20,0,Hip Hop
+23,1,Rock
+24,1,Hip Hop
+14,0,Romantic
+32,1,Classical
+19,1,Rock
+19,0,Hip Hop
+13,1,Romantic
+16,0,Romantic
+32,1,Devotional
+20,0,Sad
+25,0,Sad
+33,0,Devotional
+21,0,Rock
+27,1,Sad
+23,1,Sad
+23,0,Dance
+31,1,Classical
+13,0,Romantic
+22,1,Hip Hop
+23,1,Rock
+31,1,Devotional
+30,0,Devotional
+28,0,Rock
+18,0,Dance
+17,0,Romantic
+30,1,Classical
+15,1,Romantic
+26,1,Classical
+15,1,Romantic
+19,0,Hip Hop
+14,0,Romantic
+13,1,Romantic
+13,1,Romantic
+30,0,Classical
+29,0,Devotional
+16,1,Romantic
+20,1,Sad
+24,0,Rock
+15,0,Romantic
+27,1,Classical
+22,1,Dance
+15,0,Romantic
+25,0,Dance
+33,1,Classical
+15,0,Romantic
+33,0,Classical
+29,1,Devotional
+19,0,Hip Hop
+14,1,Romantic
+30,1,Classical
+23,1,Hip Hop
+31,1,Devotional
+15,0,Romantic
+31,1,Devotional
+30,0,Devotional
+17,1,Rock
+14,1,Romantic
+20,1,Sad
+32,0,Devotional
+13,0,Romantic
+28,1,Sad
+30,0,Devotional
+18,0,Romantic
+32,0,Classical
+15,1,Romantic
+17,0,Romantic
+25,0,Classical
+16,1,Romantic
+22,0,Sad
+21,1,Hip Hop
+15,1,Romantic
+27,0,Hip Hop
+13,1,Romantic
+30,1,Devotional
+25,1,Classical
+26,0,Hip Hop
+30,1,Classical
+25,1,Hip Hop
+21,0,Sad
+28,1,Classical
+18,0,Hip Hop
+26,0,Sad
+15,0,Romantic
+20,0,Hip Hop
+27,1,Classical
+22,1,Rock
+23,0,Sad
+27,0,Sad
+33,1,Devotional
+23,1,Rock
+23,1,Rock
+23,0,Rock
+31,1,Devotional
+25,0,Devotional
+24,1,Hip Hop
+31,1,Classical
+27,1,Sad
+22,1,Rock
+28,1,Sad
+20,0,Hip Hop
+26,0,Hip Hop
+27,0,Rock
+25,0,Sad
+14,0,Romantic
+16,1,Romantic
+18,1,Rock
+23,0,Dance
+13,1,Romantic
+20,1,Rock
+24,0,Rock
+31,1,Devotional
+13,0,Romantic
+22,0,Dance
+16,1,Romantic
+22,0,Rock
+19,0,Hip Hop
+28,1,Rock
+27,0,Hip Hop
+22,1,Dance
+13,0,Romantic
+18,1,Dance
+30,1,Devotional
+30,0,Devotional
+20,0,Hip Hop
+18,0,Rock
+13,1,Romantic
+31,0,Devotional
+13,1,Romantic
+21,1,Dance
+30,1,Devotional
+23,1,Rock
+16,0,Romantic
+29,0,Rock
+32,0,Classical
+24,0,Rock
+32,1,Devotional
+32,1,Classical
+23,1,Hip Hop
+22,1,Hip Hop
+24,1,Rock
+26,1,Rock
+25,0,Hip Hop
+28,1,Devotional
+28,0,Devotional
+18,0,Rock
+32,1,Devotional
+13,0,Romantic
+19,0,Rock
+26,0,Sad
+27,0,Classical
+15,1,Romantic
+22,1,Sad
+20,0,Hip Hop
+27,0,Rock
+29,1,Classical
+21,0,Dance
+27,1,Sad
+16,1,Romantic
+14,0,Romantic
+24,1,Rock
+16,1,Romantic
+31,0,Devotional
+18,1,Dance
+19,1,Hip Hop
+30,0,Classical
+23,0,Sad
+31,0,Classical
+17,0,Romantic
+21,1,Hip Hop
+20,1,Sad
+20,0,Rock
+17,0,Rock
+25,0,Dance
+33,1,Devotional
+29,0,Sad
+27,0,Devotional
+31,1,Classical
+27,0,Hip Hop
+30,0,Classical
+26,1,Sad
+21,0,Sad
+23,1,Rock
+23,1,Dance
+16,0,Romantic
+16,1,Romantic
+27,1,Sad
+19,1,Hip Hop
+18,0,Romantic
+33,0,Devotional
+15,0,Romantic
+14,0,Romantic
+20,0,Dance
+16,1,Romantic
+28,1,Devotional
+31,1,Devotional
+13,1,Romantic
+16,0,Romantic
+28,1,Devotional
+25,1,Rock
+16,1,Romantic
+24,0,Hip Hop
+25,1,Rock
+17,1,Romantic
+32,1,Devotional
+24,1,Hip Hop
+26,0,Classical
+15,1,Romantic
+16,0,Romantic
+26,0,Classical
+20,0,Dance
+20,0,Dance
+22,1,Hip Hop
+25,0,Rock
+14,1,Romantic
+25,1,Hip Hop
+28,1,Classical
+24,0,Hip Hop
+25,0,Classical
+30,1,Devotional
+15,1,Romantic
+13,0,Romantic
+14,1,Romantic
+29,0,Rock
+26,0,Hip Hop
+33,1,Devotional
+15,0,Romantic
+29,1,Devotional
+30,0,Devotional
+31,1,Devotional
+26,1,Hip Hop
+20,1,Rock
+16,0,Romantic
+22,1,Dance
+13,1,Romantic
+18,0,Hip Hop
+29,0,Devotional
+24,1,Sad
+16,1,Romantic
+26,0,Rock
+15,0,Romantic
+28,0,Sad
+14,0,Romantic
+24,1,Sad
+16,1,Romantic
+29,1,Classical
+13,1,Romantic
+28,0,Rock
+17,1,Romantic
+30,0,Classical
+23,1,Rock
+23,0,Dance
+31,0,Classical
+29,1,Devotional
+20,1,Rock
+15,0,Romantic
+22,0,Dance
+30,0,Classical
+24,1,Sad
+31,0,Classical
+27,0,Rock
